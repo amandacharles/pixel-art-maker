@@ -21,3 +21,22 @@ html {
 .red{
   background-color: red;
 }
+.green{
+  background-color;
+}
+
+.pallette{
+  border: 2px solid black;
+}
+
+.color{
+  border: 1px solid black;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#pink{
+  background-color: pink;
+}
