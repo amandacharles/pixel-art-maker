@@ -5,3 +5,18 @@ html {
 * {
   box-sizing: inherit;
 }
+
+.box{
+  border: 1px solid black;
+  width: 50%;
+  height: 50%;
+  float: left;
+}
+.outline-box{
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+}
+{
+  background-color: red;
+}
