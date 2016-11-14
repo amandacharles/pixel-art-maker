@@ -17,20 +17,13 @@ paletteDiv.addEventListener('click', (event) => {
     colorsInPalette[i].classList.remove('on');
   }
   theOnColor.classList.toggle('on');
-
 })
-
-
 
 gridDiv.addEventListener('click', (event) => {
 let theBox = event.target;
   if (event.target === gridDiv) {
     return;
   }
-
-
   theBox.style.backgroundColor = useColor;
-console.log(theBox.classList);
-console.log(useColor);
-} )
+})
 })();

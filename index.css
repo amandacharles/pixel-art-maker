@@ -1,8 +1,7 @@
 html {
   box-sizing: border-box;
 }
-
-* {
+*{
   box-sizing: inherit;
 
 }
@@ -32,15 +31,15 @@ h3{
   height: 20px;
   border: 1px solid white;
   float: left;
-
-
 }
 
 /*palette and color circle styling ***********/
+
 .paletteDiv{
   border: 1px solid black;
   flex: auto;
 }
+
 .color{
 height: 100px;
 width: 100px ;
@@ -48,6 +47,7 @@ border-radius: 50%;
 float: left;
 margin: 10px;
 }
+
 .on{
   height: 100px;
   width: 100px ;
@@ -58,8 +58,8 @@ margin: 10px;
   border: 5px solid black;
 }
 
-
 /***** indivudual color circles ********/
+
 .red{
   background-color: red;
 }
